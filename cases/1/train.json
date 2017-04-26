@@ -1,0 +1,26 @@
+{
+  "time": 600,
+  "factories": [
+    {
+      "topics": [
+        "Topic1",
+        "Topic3"
+      ],
+      "topic_mapping": {
+        "0": [
+          true,
+          true
+        ]
+      },
+      "products": [
+        "Name"
+      ],
+      "product_weights": [
+        1
+      ],
+      "production_rate": {
+        "0": 5
+      }
+    }
+  ]
+}
